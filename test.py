@@ -1,2 +1,1 @@
-print("Hello World and Junaed")
-print("aojdghfjk")
+print("NEW FEATURE RELEASE!")
